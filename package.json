@@ -1,0 +1,27 @@
+{
+  "name": "livro-ihc",
+  "version": "1.0.0",
+  "description": "digital interactive book for ihc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llourinho/livro-ihc.git"
+  },
+  "keywords": [
+    "ihc",
+    "ebook"
+  ],
+  "author": "Ana Letícia de Sousa Lourinho",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/llourinho/livro-ihc/issues"
+  },
+  "homepage": "https://github.com/llourinho/livro-ihc#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pug": "^3.0.3"
+  }
+}
